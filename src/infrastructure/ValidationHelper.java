@@ -14,7 +14,6 @@ public class ValidationHelper {
             return true;
         }
     }
-
     public static Boolean ValidateString(String someText){
 
         if(IsNullOrEmptyOrBlank(someText)){
